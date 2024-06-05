@@ -1,0 +1,5 @@
+User-agent: DotBot
+Disallow: /airebox/
+
+User-agent: *
+Disallow: /airebox/

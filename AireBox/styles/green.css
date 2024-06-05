@@ -1,0 +1,73 @@
+/*=================================*/
+/* Skipopia Premium Theme
+/* Green Stylesheet
+/*=================================*/
+
+body {
+	background:#334F60 url(../images/green/background.png) repeat;
+}
+a, a:visited {
+	color:#20333F;
+	text-decoration:none;
+	border-bottom:1px solid #3DD243;
+}
+a:hover {
+	color:#2C8F39;
+	text-decoration:none;
+	border-bottom:1px solid #3DD243;
+}
+code {
+	background:#2C8F39;
+	color:#fff;
+}
+pre {
+	background:#2C8F39;
+}
+
+#header {
+	background:url(../images/green/header.png) no-repeat 7% 0%;
+}
+
+a#nav1 { background:url(../images/green/nav1.png) no-repeat; width:98px; }
+a#nav2 { background:url(../images/green/nav2.png) no-repeat; width:94px; }
+a#nav3 { background:url(../images/green/nav3.png) no-repeat; width:106px; }
+a#nav4 { background:url(../images/green/nav4.png) no-repeat; width:103px; }
+a#nav5 { background:url(../images/green/nav5.png) no-repeat; width:109px; }
+a#nav1:hover { background:url(../images/green/nav1_hover.png) no-repeat; width:98px; }
+a#nav2:hover { background:url(../images/green/nav2_hover.png) no-repeat; width:94px; }
+a#nav3:hover { background:url(../images/green/nav3_hover.png) no-repeat; width:106px; }
+a#nav4:hover { background:url(../images/green/nav4_hover.png) no-repeat; width:103px; }
+a#nav5:hover { background:url(../images/green/nav5_hover.png) no-repeat; width:109px; }
+
+#middlebar-big {
+	background:url(../images/green/middlebar_big.png) no-repeat;
+}
+#middlebar-big p {
+	color:#B8FFBB;
+}
+#middlebar-big a.learn-more {
+	background:url(../images/green/learn_more.png) no-repeat;
+}
+#middlebar-small {
+	background:url(../images/green/middlebar_small.png) no-repeat top;
+}
+
+#footer {
+	background:url(../images/green/footer.png) no-repeat;
+}
+#footer a:hover {
+	color:#3DD243;
+}
+
+input:focus,
+textarea:focus,
+select:focus {
+  border: 1px solid #2C8F39;
+}
+input.button {
+  background:#2C8F39;
+}
+
+p.buy-now a {
+	background:#53AF36;
+}

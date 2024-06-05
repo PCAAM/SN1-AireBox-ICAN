@@ -1,0 +1,5 @@
+﻿# Ignore MSI files in AireBox\Downloads\Libs\
+AireBox/Downloads/Libs/*.msi
+
+# Ignore ZIP files in AireBox\scripts\
+AireBox/scripts/*.zip
